@@ -4,6 +4,8 @@
 
 A calm news reader for the Mudita Kompakt, designed for E Ink. You choose the sources, and there is no account and no feed algorithm.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J4V82A4UVG)
+
 ## What it can do
 
 - **Today:** the newest stories from all the sources you follow
