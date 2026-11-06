@@ -14,15 +14,18 @@ A calm news reader for the Mudita Kompakt, designed for E Ink. You choose the so
 - **Feed finder:** type a site address and the app looks for its RSS feed
 - **QR scan:** send a link from your computer by scanning it
 - **Clean reader:** articles without the clutter around them
-- **Reading options:** text size, Lato or serif font, pictures
+- **Reading options:** text size, Lato or serif font, and a switch for pictures
 - **Saved:** keep stories for offline reading
 - **Offline:** shows when the news was last updated
 
-**Languages:** English, Croatian, Spanish
+**Languages:** Croatian, English, German, French, Spanish, Italian, Portuguese, Dutch, Polish, Czech
 
 ## Permissions
 - Internet: to fetch news
 - Camera: only to scan a QR code, while the scanner is open
+
+## For publishers
+Publishers can ask to have their site removed from the built-in list in [Issues](../../issues).
 
 ## Install
 Download the latest APK from [Releases](../../releases/latest) and install it on your Kompakt with Mudita Center.
